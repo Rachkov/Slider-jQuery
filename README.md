@@ -1,1 +1,1 @@
-# Slider-iQuery
+# Запустить index.html
